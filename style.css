@@ -1,0 +1,14 @@
+body{
+background-color: rgb(169,222,235);
+background: linear-gradient(90deg, rgba(250,219,141,1) 0%, rgba(253,215,188,1) 50%, rgba(245,168,32,1) 100%);
+}
+
+.logo{
+    display: block;
+    width: 4em;
+}
+
+.gif{
+    width: 40%;
+    margin-left: 48em;
+}
