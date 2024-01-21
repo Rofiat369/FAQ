@@ -18,10 +18,11 @@ background: linear-gradient(90deg, rgba(250,219,141,1) 0%, rgba(253,215,188,1) 5
     list-style: none;
     display: flex;
     align-items: center;
+    padding-right: 1em;
 }
 
 .header ul li{
-    margin: 0 1em;
+    margin: 0 2em;
 }
 
 .logo{
