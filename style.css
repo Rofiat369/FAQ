@@ -37,8 +37,15 @@ background: linear-gradient(90deg, rgba(250,219,141,1) 0%, rgba(253,215,188,1) 5
     width: 4em;
 }
 
+.info{
+    display: flex;
+}
+
 .gif{
     width: 40%;
-    margin-left: 48em;
+}
+
+.faqSection{
+    width: 60%;
 }
 
