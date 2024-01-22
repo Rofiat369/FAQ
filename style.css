@@ -47,5 +47,9 @@ background: linear-gradient(90deg, rgba(250,219,141,1) 0%, rgba(253,215,188,1) 5
 
 .faqSection{
     width: 60%;
+    margin: 5em 10em;
 }
 
+.faqSection details{
+    margin: 5em 0em;
+}
