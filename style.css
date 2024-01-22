@@ -51,14 +51,14 @@ background: linear-gradient(90deg, rgba(250,219,141,1) 0%, rgba(253,215,188,1) 5
     margin: 5em 10em;
 }
 
+details[open]{
+    background-color: rgb(180, 161, 161);
+    
+}
+
 .faqSection details{
     margin: 2em 0em;
     padding: 1em;
     border: 1px solid #c8262f;
     font-size: 1.2em;
-}
-
-details[open]{
-    background-color: rgb(180, 161, 161);
-    
 }
