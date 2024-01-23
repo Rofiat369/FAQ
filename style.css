@@ -60,18 +60,20 @@ details{
 
 details summary{
     cursor: pointer;
-    background-color: aquamarine;
+    background-color: #f5a820;
     padding: 10px;
     font-weight: bold;
-    transition: background-color 0.4s ease;
+    border-radius: 1em;
 }
 
 details[open] summary{
-    background-color: pink;
     margin-bottom: 1em;
 }
 
 details[open] p{
     padding: 1em 2em;
-    background-color: rgb(146, 186, 227);
+    background-color: #060404;
+    color: #fdd7bc;
+    font-size: large;
+    border-radius: 1em;
 }
