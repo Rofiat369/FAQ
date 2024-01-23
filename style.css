@@ -51,19 +51,19 @@ background: linear-gradient(90deg, rgba(250,219,141,1) 0%, rgba(253,215,188,1) 5
     margin: 5em 10em;
 }
 
+details{
+    margin: 2em 0em;
+    padding: 1em;
+    border: 1px solid #c8262f;
+    font-size: 1.2em;
+}
+
 details summary{
     cursor: pointer;
     background-color: aquamarine;
     padding: 10px;
     font-weight: bold;
     transition: background-color 0.4s ease;
-}
-
-details{
-    margin: 2em 0em;
-    padding: 1em;
-    border: 1px solid #c8262f;
-    font-size: 1.2em;
 }
 
 details[open] summary{
