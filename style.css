@@ -63,7 +63,7 @@ details summary{
     background-color: #f5a820;
     padding: 10px;
     font-weight: bold;
-    border-radius: 1em;
+    border-radius: 0.5em;
 }
 
 details[open] summary{
@@ -75,4 +75,5 @@ details[open] p{
     background-color: #060404;
     color: #fdd7bc;
     font-size: large;
+    border-radius: 0.5em;
 }
