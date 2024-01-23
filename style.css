@@ -56,6 +56,7 @@ details{
     padding: 1em;
     border: 1px solid #c8262f;
     font-size: 1.2em;
+    border-radius: 0.5em;
 }
 
 details summary{
